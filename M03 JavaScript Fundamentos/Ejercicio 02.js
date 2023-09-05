@@ -42,7 +42,7 @@ function obtenerResto(x, y) {
    // Tu código:
    return (x%y);
 }
-obtenerResto(8%4);
+obtenerResto(8,4);
 
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
