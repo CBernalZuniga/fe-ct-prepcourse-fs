@@ -30,6 +30,7 @@ function divide(x, y) {
    return (x/y);
 }
 divide(8,4)
+
 function multiplica(x, y) {
    // Retorna el resultado de su multiplicación.
    // Tu código:
